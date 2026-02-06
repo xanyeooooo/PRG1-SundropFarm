@@ -1,10 +1,6 @@
 # 🌾 Sundrop Farm
 
 A text-based farming simulation game where you manage a small farm in Albatross Town. Plant seeds, harvest crops, and pay off your debt before time runs out!
-
-**Author:** Xander Yeo Kai Kiat   
-**Course:** CSF03 - PRG1 Assignment
-
 ---
 
 ## 📖 Game Overview
