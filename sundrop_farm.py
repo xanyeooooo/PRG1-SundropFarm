@@ -425,8 +425,6 @@ def in_farm(game_vars, farm):
         #Harvesting of seeds
         #----------------------------------------------------------------------------------------------------------------------------------------------  
         elif move == 'H':
-            #if plant is ready to harvest and player has energy
-            random
             if growth_time == 0:
                 if game_vars['energy'] > 0: #if player has energy
                     crop = farm[row_num][col_num][0] #gets the crop code
