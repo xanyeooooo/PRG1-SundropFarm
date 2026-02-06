@@ -39,7 +39,7 @@ You've taken out a loan to buy a small farm in Albatross Town. Your goal is to *
 2. **Download**: Clone or download this repository
 3. **Run**: Execute the game file
    ```bash
-   python S10259198K_Assignment.py
+   python sundrop_farm.py
    ```
 
 ### Main Menu Options
