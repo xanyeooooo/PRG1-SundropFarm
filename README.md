@@ -172,7 +172,7 @@ Your stats are displayed at the top of each screen:
 ## 📁 File Structure
 
 ```
-sundrop_farm.py  # Main game file
+sundrop_farm.py           # Main game file
 savegame.txt              # Save file (created when you save)
 scoreboard.txt            # High scores (created after winning)
 README.md                 # This file
