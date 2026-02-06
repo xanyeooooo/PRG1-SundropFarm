@@ -1,4 +1,4 @@
-#Xander Yeo Kai Kiat S10259198 CSF03
+#Xander Yeo Kai Kiat CSF03
 #PRG1 Assignment
 
 #Additional Features : Limited Capacity for Seed Bag, High Score Board
